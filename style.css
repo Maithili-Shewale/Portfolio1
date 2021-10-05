@@ -1,0 +1,24 @@
+body {
+  text-align:center;
+ background:#3D5AFE;
+  font-size:41px;
+}
+
+.menu {
+list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor:pointer;
+}
+.para {
+    font-size:18px;
+  background-color: cornflowerblue;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
